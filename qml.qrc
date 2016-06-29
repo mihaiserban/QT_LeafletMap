@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>map.html</file>
+        <file>sample-geojson.js</file>
+        <file>MapLeaflet.qml</file>
+    </qresource>
+</RCC>
